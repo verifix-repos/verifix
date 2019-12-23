@@ -5,10 +5,10 @@ Sur ce repo, vous pouvez signaler les bugs et correctifs à apporter que vous av
 ## Règles à respecter pour soumettre vos issues
 ### Catégorie
 Si votre bug rentre dans une des catégories ci-après, signalez-le avec le tag prévu pour, dans le titre de votre issue:
-  - **[SECURITY]** pour les fonctionnalités clés de sécurité du site, notamment les problèmes pouvant entraîner une faille de sécurité et/ou compromettre les données de vérifix
-  - **[DATA]** pour les fonctionnalités liées à des bases de données, notamment les articles de blog, ou la gestion des sites en mémoire
-  - **[DISPLAY]** pour ce qui concerne l'affichage du site, notamment un affichage incorrect, des problèmes orthographiques
-  - **[OTHER]** si vous considérez que votre problème n'est pas défini par les catégories ci-dessus
+  - **[Sécurité]** pour les fonctionnalités clés de sécurité du site, notamment les problèmes pouvant entraîner une faille de sécurité et/ou compromettre les données de vérifix
+  - **[Données]** pour les fonctionnalités liées à des bases de données, notamment les articles de blog, ou la gestion des sites en mémoire
+  - **[Affichage]** pour ce qui concerne l'affichage du site, notamment un affichage incorrect, des problèmes orthographiques
+  - **[Autre]** si vous considérez que votre problème n'est pas défini par les catégories ci-dessus
   
 ### Langage
 Si vous avez connaissance du langage où se trouve votre issue, signalez-le également avec un tag approprié:
@@ -26,3 +26,12 @@ N'hésitez pas à utiliser les outils GitHub à votre disposition, notamment pou
 ## Accès au code
 vérifix n'est pas un projet open-source: en clair, il est **impossible** vous de voir, modifier ou redistribuer le code-source des fonctionnalités clés de vérifix.
 Néanmoins, comme tout site web, vous avez accès aux outils de base des navigateurs Internet, comme l'accès aux ressources Javascript et CSS du site, aux images, et également au code produit affiché sur la page, mais **pas** aux algorithmes produisant ledit code. Pour afficher le code affiché par votre ordinateur, faites un clic-droit sur la page puis sélectionnez **Afficher le code source de la page** ou effectuez la combinaison de touches **CTRL+U** sur votre navigateur Internet.
+
+## Correction des bugs
+Une fois votre issue soumise, nous vous répondrons le plus rapidement possible afin de pouvoir corriger le problème.
+Vous pourrez voir l'avancement de la correction dans le titre de votre issue. **Attention !** Pour éviter que votre problème ne soit plus corrigé, ne TOUCHEZ PAS au titre de votre issue une fois que vous l'aurez soumise. En effet, les tags ajoutés à votre issue permettant de mieux s'y retrouver, donc n'y opérez aucun changement.
+Lorsque votre issue sera résolue, elle aura le tag **[Résolu]**, ce qui est.. logique, quand on y pense :)
+
+
+
+En tout cas, merci à vous. Vraiment. Sinon, on en serait pas là aujourd'hui.
