@@ -4,7 +4,7 @@ Sur ce repo, vous pouvez signaler les bugs et correctifs à apporter que vous av
 
 ## Règles à respecter pour soumettre vos issues
 ### Catégorie
-Si votre bug rentre dans une des catégories ci-après, signalez-le avec le tag prévu pour, dans le titre de votre issue:
+Si votre bug rentre dans une des catégories ci-après, signalez-le avec le tag approprié, dans le titre de votre issue:
   - **[Sécurité]** pour les fonctionnalités clés de sécurité du site, notamment les problèmes pouvant entraîner une faille de sécurité et/ou compromettre les données de vérifix
   - **[Données]** pour les fonctionnalités liées à des bases de données, notamment les articles de blog, ou la gestion des sites en mémoire
   - **[Affichage]** pour ce qui concerne l'affichage du site, notamment un affichage incorrect, des problèmes orthographiques
@@ -24,12 +24,12 @@ Si vous pensez connaître le moyen de résolution du problème en question, vous
 N'hésitez pas à utiliser les outils GitHub à votre disposition, notamment pour mettre en forme votre code !
 
 ## Accès au code
-vérifix n'est pas un projet open-source: en clair, il est **impossible** vous de voir, modifier ou redistribuer le code-source des fonctionnalités clés de vérifix.
+vérifix n'est pas un projet open-source: en clair, il est **impossible** pour vous de voir, modifier ou redistribuer le code-source des fonctionnalités clés de vérifix.
 Néanmoins, comme tout site web, vous avez accès aux outils de base des navigateurs Internet, comme l'accès aux ressources Javascript et CSS du site, aux images, et également au code produit affiché sur la page, mais **pas** aux algorithmes produisant ledit code. Pour afficher le code affiché par votre ordinateur, faites un clic-droit sur la page puis sélectionnez **Afficher le code source de la page** ou effectuez la combinaison de touches **CTRL+U** sur votre navigateur Internet.
 
 ## Correction des bugs
 Une fois votre issue soumise, nous vous répondrons le plus rapidement possible afin de pouvoir corriger le problème.
-Vous pourrez voir l'avancement de la correction dans le titre de votre issue. **Attention !** Pour éviter que votre problème ne soit plus corrigé, ne TOUCHEZ PAS au titre de votre issue une fois que vous l'aurez soumise. En effet, les tags ajoutés à votre issue permettant de mieux s'y retrouver, donc n'y opérez aucun changement.
+Vous pourrez voir l'avancement de la correction dans le titre de votre issue. **Attention !** Pour éviter que votre problème ne soit plus corrigé, ne TOUCHEZ PAS au titre de votre issue une fois que vous l'aurez soumise. En effet, les tags ajoutés à votre issue permettent de mieux s'y retrouver, donc n'y opérez aucun changement.
 Lorsque votre issue sera résolue, elle aura le tag **[Résolu]**, ce qui est.. logique, quand on y pense :)
 
 
